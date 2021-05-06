@@ -1,4 +1,4 @@
-#include "../ats-pthread-ext.hats"
+#include "ats-pthread-ext.hats"
 staload "libats/libc/SATS/unistd.sats"
 
 implement main0() = {

@@ -1,3 +1,4 @@
+#define ATS_PACKNAME "ats-pthread-extensions"
 staload "libats/SATS/athread.sats"
 
 fun{}
